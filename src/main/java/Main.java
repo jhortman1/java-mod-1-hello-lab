@@ -1,5 +1,6 @@
-public class Main {
+public class SimpleSample {
     public static void main(String[] args) {
-        // your code here
+            System.out.print("Hello World");
+        }
     }
-}
+    
